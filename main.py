@@ -36,5 +36,5 @@ pdf.output("output.pdf")
 print("PDF generated: output.pdf")
 
 import os
-os.startfile("output.pdf")
+os.startfile("output.pdf") # make sure default app is set for PDFs
 
