@@ -49,11 +49,15 @@ Algebra,3
 Calculus,2
 Computer Networks,4
 
+---
+
 ## ⚙️ Requirements
 
 Install dependencies:
 
 pip install fpdf2 pandas
+
+---
 
 ## ▶️ How to Run
 
@@ -67,6 +71,8 @@ Output:
 output.pdf is created in the same folder
 
 The PDF auto-opens after generating
+
+---
 
 ## 🖨️ Output Example
 
@@ -83,6 +89,8 @@ Page 1: Topic header + line + footer
 Page 2: Blank page + footer
 
 Page 3: Blank page + footer
+
+---
 
 ## 🛠️ Notes / Common Issues
 
@@ -111,6 +119,8 @@ Right click any .pdf file
 Open with → choose Edge / Chrome / Adobe Reader
 
 Tick ✅ Always use this app
+
+---
 
 ## 🚀 Possible Improvements
 
